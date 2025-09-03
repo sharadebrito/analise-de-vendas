@@ -5,7 +5,7 @@ O projeto permite identificar padrões de vendas, gerar relatórios e gráficos,
 ⚙️ Tecnologias utilizadas:  
 🐍 Python  
 📊 Pandas  
-📈 Matplotlib / Seaborn  
+📈 Matplotlib 
 🧪 Jupyter Notebook  
 
 #### Sales Analysis
